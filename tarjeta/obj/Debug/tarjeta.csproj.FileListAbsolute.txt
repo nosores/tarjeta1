@@ -1,0 +1,10 @@
+C:\Users\Nico\source\repos\ejercito\tarjeta\tarjeta\obj\Debug\tarjeta.csproj.AssemblyReference.cache
+C:\Users\Nico\source\repos\ejercito\tarjeta\tarjeta\obj\Debug\tarjeta.Form1.resources
+C:\Users\Nico\source\repos\ejercito\tarjeta\tarjeta\obj\Debug\tarjeta.Properties.Resources.resources
+C:\Users\Nico\source\repos\ejercito\tarjeta\tarjeta\obj\Debug\tarjeta.csproj.GenerateResource.cache
+C:\Users\Nico\source\repos\ejercito\tarjeta\tarjeta\obj\Debug\tarjeta.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\ejercito\tarjeta\tarjeta\bin\Debug\tarjeta.exe.config
+C:\Users\Nico\source\repos\ejercito\tarjeta\tarjeta\bin\Debug\tarjeta.exe
+C:\Users\Nico\source\repos\ejercito\tarjeta\tarjeta\bin\Debug\tarjeta.pdb
+C:\Users\Nico\source\repos\ejercito\tarjeta\tarjeta\obj\Debug\tarjeta.exe
+C:\Users\Nico\source\repos\ejercito\tarjeta\tarjeta\obj\Debug\tarjeta.pdb
